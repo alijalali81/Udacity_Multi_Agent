@@ -50,5 +50,7 @@ Make sure your kernel is set to python3.
 
 Run the `Tennis.ipynb` cell by cell
 
-If you want to run the code on your own computer the only part that you to change is the path to the Unity Environment file.
+If you want to run the code on your own computer the only part that you to change is the path to the Unity Environment file in the section highlighted below
+
+![GitHub Logo](/file_path.png)
 
