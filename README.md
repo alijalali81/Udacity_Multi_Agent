@@ -38,7 +38,17 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
+### Required Pythob Packages
+
+The list of the requiredpython packages is provided in the 'requirements.txt' file
+
 ### Instructions
 
-Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+Open the `Tennis.ipynb` 
+
+Make sure your kernel is set to python3.
+
+Run the `Tennis.ipynb` cell by cell
+
+If you want to run the code on your own computer the only part that you to change is the path to the Unity Environment file.
 
